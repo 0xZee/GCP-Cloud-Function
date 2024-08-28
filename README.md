@@ -1,4 +1,4 @@
-# GCP-Cloud-Function
+# GCP Google-Cloud-Functions
 Google Cloud Function
 Google API Using Yfinance to Get Stock Informations and News
 
